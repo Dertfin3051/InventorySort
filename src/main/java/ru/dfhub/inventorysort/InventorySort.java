@@ -1,7 +1,7 @@
 package ru.dfhub.inventorysort;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import ru.dfhub.inventorysort.Commands.InventorySortCommand;
+import ru.dfhub.inventorysort.commands.InventorySortCommand;
 
 public final class InventorySort extends JavaPlugin {
 

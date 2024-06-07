@@ -1,4 +1,4 @@
-package ru.dfhub.inventorysort.Utils;
+package ru.dfhub.inventorysort.utils;
 
 import org.bukkit.inventory.ItemStack;
 
